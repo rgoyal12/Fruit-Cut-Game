@@ -1,4 +1,4 @@
-# Fruit-Cutting-Game
+# Fruit-Slice-Game
 A simple fruit cutting game using HTMl, CSS, JS, jQuery.
 run the html file in your browser to play the game.
 Increase your score by cutting more fruits.
